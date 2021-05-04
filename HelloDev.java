@@ -1,0 +1,10 @@
+
+public class HelloDev {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("hii from developer");
+
+	}
+
+}
